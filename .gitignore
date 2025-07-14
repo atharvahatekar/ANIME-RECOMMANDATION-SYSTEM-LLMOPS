@@ -1,0 +1,5 @@
+venv/
+logs/
+__pycache__/
+Anime_Recommender.egg-info/
+.env/
