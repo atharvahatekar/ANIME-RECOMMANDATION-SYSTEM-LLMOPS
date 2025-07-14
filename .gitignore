@@ -1,18 +1,11 @@
 # Environment variables
-.env
-.env.local
-.env.development
-.env.production
+.env/
 
 # Virtual environments
-.env/
 venv/
 
 # Logs
 logs/
-
-# Python cache
-__pycache__/
 
 # Package information
 Anime_Recommender.egg-info/
