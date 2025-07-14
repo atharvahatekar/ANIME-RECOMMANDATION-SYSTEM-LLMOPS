@@ -5,7 +5,7 @@
 This is an LLM-powered recommendation engine that provides personalized anime recommendations. It's built with a modern MLOps stack for scalability and observability, featuring a user-friendly interface created with Streamlit.
 
 ## 🏗️App Preview
-![app_image](URL_or_path_to_your_image)
+![app_image](image.png)
 ## 🛠️ Technology Stack
 
 -   **Frontend:** Streamlit
