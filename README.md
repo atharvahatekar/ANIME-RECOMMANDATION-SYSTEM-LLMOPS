@@ -1,4 +1,4 @@
-# End-to-End AI Anime recommendation System
+# AI Anime recommendation System
 
 ## 🌟 Overview
 
